@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **React, PHP, JS, Java, C++ or anything tech!**
+- 💬 Ask me about **React, PHP, JS or anything tech!**
 
 - 📫 How to reach me **luigicarmone16@gmail.com**
 
