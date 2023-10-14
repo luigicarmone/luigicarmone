@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **luigicarmone16@gmail.com**
 
-- <a href="https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing" target="_blank" style="text-decoration: none; color: white;">📄 Click to know about my experiences</a>
+- <a href="https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing" target="_blank">📄 Click to know about my experiences</a>
 
 - ⚡ Fun fact **sometimes I produce music or graphics**
 
