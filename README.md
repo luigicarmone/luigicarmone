@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **luigicarmone16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing](https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing](https://drive.google.com/file/d/10DMCYt0ShaxSxh1UVKM7ti_7TCCPVgt7/view?usp=sharing){:target="_blank"}
 
 - ⚡ Fun fact **sometimes I produce music or graphics**
 
